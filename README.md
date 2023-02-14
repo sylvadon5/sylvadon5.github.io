@@ -24,8 +24,10 @@ This data frame contains the following columns:
 
 ## Project 1 - Sampling
 The objective of this project is to have a hands-on experience using `Microsoft Excel` to obtain a `simple random sample`.
-- [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project-1-%20SRS.docx) to download the project details in a MS Word format.
-- [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project-1-%20SRS.pdf) to download the project details in a PDF format.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-1-%20SRS.docx) to download the project details in a MS Word format.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-1-%20SRS.pdf) to download the project details in a PDF format.
+
+https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-1-%20SRS.pdf
 
 ## Project 2 - Descriptive Statistics
 The objective of this project is to have a hands-on experience using `Microsoft Excel` and descriptive tools to summarize and describe the basic features/characteristics of data.
