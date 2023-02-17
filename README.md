@@ -1,4 +1,4 @@
-# Statistics Projects
+# MA155: Statistical Reasoning (Projects)
 
 <img src="https://thumbs.dreamstime.com/b/data-analytics-chart-performance-pattern-statistics-information-concept-54345935.jpg"  width="50%" height="40%">
 
@@ -38,5 +38,16 @@ The objective of this project is to have a hands-on experience using `Microsoft 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.pdf) to download the project details in a PDF format. 
 
-## Project 4 - Statistical Modeling
+
+# MA123: Mathematical Reasoning & Modeling (Projects)
+
+## Project 1 - Probability 1
+
+## Project 2 - Probability 2
+
+## Project 3 - Statistical Modeling
+
+## Project 4 - Finance
+
+## Project 5 - Geometry
 
