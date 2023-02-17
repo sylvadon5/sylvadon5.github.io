@@ -39,7 +39,11 @@ The objective of this project is to have a hands-on experience using `Microsoft 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.pdf) to download the project details in a PDF format. 
 
 
+
+
 # MA123: Mathematical Reasoning & Modeling (Projects)
+
+<img src="https://semo.edu/colleges-departments/stem/mathematics/_images/math-1-500x282.jpg"  width="50%" height="40%">
 
 ## Project 1 - Probability 1
 
