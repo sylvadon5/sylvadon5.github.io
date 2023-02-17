@@ -1,6 +1,6 @@
 # Statistics Projects
 
-<img src="https://semo.edu/colleges-departments/stem/mathematics/_images/math-1-500x282.jpg"  width="50%" height="40%">
+<img src="https://thumbs.dreamstime.com/b/data-analytics-chart-performance-pattern-statistics-information-concept-54345935.jpg"  width="50%" height="40%">
 
 There are four (4) projects to be completed using:
 
@@ -27,17 +27,16 @@ The objective of this project is to have a hands-on experience using `Microsoft 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-1-%20SRS.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-1-%20SRS.pdf) to download the project details in a PDF format.
 
-https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-1-%20SRS.pdf
 
 ## Project 2 - Descriptive Statistics
 The objective of this project is to have a hands-on experience using `Microsoft Excel` and descriptive tools to summarize and describe the basic features/characteristics of data.
-- [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project-2-Descriptive-Statistics.docx) to download the project details in a MS Word format.
-- [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project-2-Descriptive-Statistics.pdf) to download the project details in a PDF format. 
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-2-Descriptive-Statistics.docx) to download the project details in a MS Word format.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-2-Descriptive-Statistics.pdf) to download the project details in a PDF format. 
 
 ## Project 3 - Inferential Statistics
 The objective of this project is to have a hands-on experience using `Microsoft Excel` and random samples to draw conclusions about a population parameter.
-- [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project_3-SINF.docx) to download the project details in a MS Word format.
-- [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/main/Project_3-SINF.pdf) to download the project details in a PDF format. 
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.docx) to download the project details in a MS Word format.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.pdf) to download the project details in a PDF format. 
 
 ## Project 4 - Statistical Modeling
 
