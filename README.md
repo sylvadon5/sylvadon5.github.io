@@ -45,7 +45,9 @@ The objective of this project is to have a hands-on experience using `Microsoft 
 
 <img src="https://semo.edu/colleges-departments/stem/mathematics/_images/math-1-500x282.jpg"  width="50%" height="40%">
 
-## Project 1 - Probability 1
+## Project 1 - Probability 1 
+
+This Project about Probability 
 
 ## Project 2 - Probability 2
 
