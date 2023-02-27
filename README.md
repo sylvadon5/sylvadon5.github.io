@@ -23,7 +23,7 @@ This data frame contains the following columns:
 
 
 ## Project 1 - Sampling
-The objective of this project is to have a hands-on experience using `Microsoft Excel` to obtain a `simple random sample`.
+**Objective:** Students will be able to use MS Excel to obtain simple random samples from a large population
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-1-%20SRS.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-1-%20SRS.pdf) to download the project details in a PDF format.
 
