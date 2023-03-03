@@ -2,10 +2,12 @@
 
 <img src="https://thumbs.dreamstime.com/b/data-analytics-chart-performance-pattern-statistics-information-concept-54345935.jpg"  width="50%" height="40%">
 
+
 All projects are to be completed using Microsoft (MS) Excel.
 
-## Project 1 - Sampling
+## Sampling
 **Objective:** Students will be able to use MS Excel to obtain simple random samples from a large population.
+
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-1-%20SRS.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-1-%20SRS.pdf) to download the project details in a PDF format.
 - Use the `Davis data set` to complete project 1.  
@@ -23,36 +25,36 @@ This data frame contains the following columns:
   - Click this [`link`](https://rdrr.io/cran/carData/man/Davis.html) for more information about the data set. 
   - This [`link`](https://github.com/sylvadon5/data-files/blob/main/Davis.xlsx) takes you to the data set in MS Excel format.  
 
-## Project 2 - Descriptive Statistics
-**Objective:** The objective of this project is to have a hands-on experience using `Microsoft Excel` and descriptive tools to summarize and describe the basic features/characteristics of data. This project is a continuation of project 1.
+## Descriptive Statistics
+
+**Objective:** Students will be able to use MS Excel and descriptive tools to summarize and describe basic features/characteristics of data. This project is a continuation of the sampling project.
+
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-2-Descriptive-Statistics.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-2-Descriptive-Statistics.pdf) to download the project details in a PDF format. 
 
-## Project 3 - Inferential Statistics
-The objective of this project is to have a hands-on experience using `Microsoft Excel` and random samples to draw conclusions about a population parameter.
+## General Probability and Discrete Distribution
+
+**Objective:** Students will be able to use MS Excel and apply general probability and discrete random variable concepts to solve basic health insurance problems.
+
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-2-Descriptive-Statistics.docx) to download the project details in a MS Word format.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-2-Descriptive-Statistics.pdf) to download the project details in a PDF format. 
+
+## Inferential Statistics
+
+**Objective:** Students will be able to use MS Excel, random samples, and an inferential tool to draw conclusion about a population parameter.
+
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.pdf) to download the project details in a PDF format. 
+
+
+# MA123: Mathematical Modeling (Projects)
+
 
 
 ## Project 4 - Basic Data Modeling
-The objective of this project is to have a hands-on experience using `Microsoft Excel` to model data.
+**Objective:** Students will be able to of this project is to have a hands-on experience using `Microsoft Excel` to model data.
+
+
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.pdf) to download the project details in a PDF format. 
-
-
-# MA123: Mathematical Reasoning & Modeling (Projects)
-
-<img src="https://semo.edu/colleges-departments/stem/mathematics/_images/math-1-500x282.jpg"  width="50%" height="40%">
-
-## Project 1 - Probability 1 
-
-This Project about Probability 
-
-## Project 2 - Probability 2
-
-## Project 3 - Statistical Modeling
-
-## Project 4 - Finance
-
-## Project 5 - Geometry
 
