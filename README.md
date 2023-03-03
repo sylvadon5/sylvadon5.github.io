@@ -63,7 +63,7 @@ This data frame contains the following columns:
   2. CO2 - Carbon Dioxide Emission (in Metric Tons per Capita)
   3.  CHEPC - Current Health Expenditure per Capita (in International Dollars at Purchasing Power Parity) 
 - `Number of Observations:` 48 (There are 54 countries in Africa, due to missing observations, 6 countries dropped from the dataset)
-  - This [`link`]() takes you to the data set in MS Excel format.  
+  - This [`link`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_5_Statistical_Modeling_Data_set.xlsx) takes you to the data set in MS Excel format.  
 
 
 
