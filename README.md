@@ -24,7 +24,7 @@ This data frame contains the following columns:
   - This [`link`](https://github.com/sylvadon5/data-files/blob/main/Davis.xlsx) takes you to the data set in MS Excel format.  
 
 ## Project 2 - Descriptive Statistics
-The objective of this project is to have a hands-on experience using `Microsoft Excel` and descriptive tools to summarize and describe the basic features/characteristics of data.
+**Objective:** The objective of this project is to have a hands-on experience using `Microsoft Excel` and descriptive tools to summarize and describe the basic features/characteristics of data. This project is a continuation of project 1.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-2-Descriptive-Statistics.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-2-Descriptive-Statistics.pdf) to download the project details in a PDF format. 
 
@@ -34,6 +34,10 @@ The objective of this project is to have a hands-on experience using `Microsoft 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.pdf) to download the project details in a PDF format. 
 
 
+## Project 4 - Basic Data Modeling
+The objective of this project is to have a hands-on experience using `Microsoft Excel` to model data.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.docx) to download the project details in a MS Word format.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.pdf) to download the project details in a PDF format. 
 
 
 # MA123: Mathematical Reasoning & Modeling (Projects)
