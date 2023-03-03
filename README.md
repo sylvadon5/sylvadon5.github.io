@@ -1,9 +1,4 @@
-# MA155: Statistical Reasoning (Projects)
-
-<img src="https://thumbs.dreamstime.com/b/data-analytics-chart-performance-pattern-statistics-information-concept-54345935.jpg"  width="50%" height="40%">
-
-
-All projects are to be completed using Microsoft (MS) Excel.
+# Statistical Reasoning Course Projects
 
 ## Sampling
 **Objective:** Students will be able to use MS Excel to obtain simple random samples from a large population.
