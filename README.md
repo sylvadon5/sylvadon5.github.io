@@ -63,7 +63,9 @@ This data frame contains the following columns:
   2. CO2 - Carbon Dioxide Emission (in Metric Tons per Capita)
   3.  CHEPC - Current Health Expenditure per Capita (in International Dollars at Purchasing Power Parity) 
 - Number of Observations: 48 (There are 54 countries in Africa, due to missing observations, 6 countries dropped from the dataset)
-![image](https://user-images.githubusercontent.com/61098223/222828949-8ad5c974-9288-4d28-ba31-85eb0a141c14.png)
+
+
+
 
 
 
