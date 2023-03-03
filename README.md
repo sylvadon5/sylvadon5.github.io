@@ -45,7 +45,7 @@ This data frame contains the following columns:
 **Objective(s):** Students will be able to use MS Excel to perform basic data modeling. 
  
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_5_Statistical_Modeling.docx) to download the project details in a MS Word format.
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_5_Statistical_Modeling.pfd) to download the project details in a PDF format. 
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_5_Statistical_Modeling.pdf) to download the project details in a PDF format. 
   
   **Data the data set**
 
