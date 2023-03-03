@@ -1,11 +1,11 @@
 # Statistical Reasoning Course Projects
 
 ## Sampling
-**Objective:** Students will be able to use MS Excel to obtain simple random samples from a large population.
+**Objective(s):** Students will be able to use MS Excel to obtain simple random samples from a large population.
 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-1-%20SRS.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-1-%20SRS.pdf) to download the project details in a PDF format.
-- Use the `Davis data set` to complete project 1.  
+- Use the `Davis data set` to complete the project.  
 
 **About Davis Data Set (Self-Reports of Height and Weight)**
 
@@ -22,27 +22,27 @@ This data frame contains the following columns:
 
 ## Descriptive Statistics
 
-**Objective:** Students will be able to use MS Excel and descriptive tools to summarize and describe basic features/characteristics of data. This project is a continuation of the sampling project.
+**Objective(s):** Students will be able to use MS Excel and descriptive tools to summarize and describe basic features/characteristics of data. This project is a continuation of the sampling project.
 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-2-Descriptive-Statistics.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-2-Descriptive-Statistics.pdf) to download the project details in a PDF format. 
 
 ## General Probability and Discrete Distribution
 
-**Objective:** Students will be able to use MS Excel and apply general probability and discrete random variable concepts to solve basic health insurance problems.
+**Objective(s):** Students will be able to use MS Excel and apply general probability and discrete random variable concepts to solve basic health insurance problems.
 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_2-Probability_Applications.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_2-Probability_Applications.pdf) to download the project details in a PDF format. 
 
 ## Inferential Statistics
 
-**Objective:** Students will be able to use MS Excel, random samples, and an inferential tool to draw conclusion about a population parameter.
+**Objective(s):** Students will be able to use MS Excel, random samples, and an inferential tool to draw conclusion about a population parameter.
 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.pdf) to download the project details in a PDF format. 
 
 ## Statistical Modeling
-**Objective:** Students will be able to use MS Excel to perform basic data modeling. 
+**Objective(s):** Students will be able to use MS Excel to perform basic data modeling. 
  
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_5_Statistical_Modeling.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_5_Statistical_Modeling.pfd) to download the project details in a PDF format. 
