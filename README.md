@@ -36,8 +36,8 @@ This data frame contains the following columns:
 
 **Objective:** Students will be able to use MS Excel and apply general probability and discrete random variable concepts to solve basic health insurance problems.
 
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-2-Descriptive-Statistics.docx) to download the project details in a MS Word format.
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-2-Descriptive-Statistics.pdf) to download the project details in a PDF format. 
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_2-Probability_Applications.docx) to download the project details in a MS Word format.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_2-Probability_Applications.pdf) to download the project details in a PDF format. 
 
 ## Inferential Statistics
 
@@ -46,15 +46,13 @@ This data frame contains the following columns:
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.pdf) to download the project details in a PDF format. 
 
+## Statistical Modeling
+**Objective:** Students will be able to use MS Excel to perform basic data modeling. 
 
-# MA123: Mathematical Modeling (Projects)
-
-
-
-## Project 4 - Basic Data Modeling
-**Objective:** Students will be able to of this project is to have a hands-on experience using `Microsoft Excel` to model data.
-
-
+The purpose of this project is to perform regression analysis using real-world data. 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.pdf) to download the project details in a PDF format. 
+
+
+
 
