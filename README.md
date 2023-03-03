@@ -49,20 +49,23 @@ This data frame contains the following columns:
 ## Statistical Modeling
 **Objective:** Students will be able to use MS Excel to perform basic data modeling. 
  
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.docx) to download the project details in a MS Word format.
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.pdf) to download the project details in a PDF format. 
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_5_Statistical_Modeling.docx) to download the project details in a MS Word format.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_5_Statistical_Modeling.pfd) to download the project details in a PDF format. 
   
   **Data the data set**
 
-- Data Source:  The World Bank
-- Website: www.data.worldbank.org
-- Year: 2019
-- Number of Variables: 3
-- Names of Variables:
+- `Data Source:` The World Bank
+- `Website:` www.data.worldbank.org
+- `Year:` 2019
+- `Number of Variables:` 3
+- `Names of Variables:`
   1. Country - Name of the country
   2. CO2 - Carbon Dioxide Emission (in Metric Tons per Capita)
   3.  CHEPC - Current Health Expenditure per Capita (in International Dollars at Purchasing Power Parity) 
-- Number of Observations: 48 (There are 54 countries in Africa, due to missing observations, 6 countries dropped from the dataset)
+- `Number of Observations:` 48 (There are 54 countries in Africa, due to missing observations, 6 countries dropped from the dataset)
+  - This [`link`]() takes you to the data set in MS Excel format.  
+
+
 
 
 
