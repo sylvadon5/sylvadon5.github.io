@@ -64,8 +64,8 @@ This data frame contains the following columns:
 
 # Calculus Course Projects - Haohao Wang
 
-- [`Click me`] () Poster Integration  
-- [`Click me`] () Washington Monument 
+- [`Click me`] (https://github.com/sylvadon5/sylvadon5.github.io/blob/main/PosterIntegration.pdf) Poster Integration  
+- [`Click me`] (https://github.com/sylvadon5/sylvadon5.github.io/blob/main/WashingtonMonument.pdf) Washington Monument 
 
 
 
