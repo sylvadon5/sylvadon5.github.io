@@ -1,4 +1,4 @@
-# Statistical Reasoning Course Projects
+# Statistical Reasoning Course Projects - Emmanuel Thompson
 
 ## Sampling
 **Objective(s):** Students will be able to use MS Excel to obtain simple random samples from a large population.
@@ -60,9 +60,9 @@ This data frame contains the following columns:
 - `Number of Observations:` 48 (There are 54 countries in Africa, due to missing observations, 6 countries dropped from the dataset)
   - This [`link`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_5_Statistical_Modeling_Data_set.xlsx) takes you to the data set in MS Excel format.  
 
-# Mathematical Modeling Course Projects
+# Mathematical Modeling Course Projects - Natalya Kutsevalova
 
-# Calculus Course Projects
+# Calculus Course Projects - Haohao Wang
 
 - [`Click me`] () Poster Integration  
 - [`Click me`] () Washington Monument 
