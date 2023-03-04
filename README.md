@@ -24,7 +24,7 @@ This data frame contains the following columns:
 
 ## Descriptive Statistics
 
-**Objective(s):** Students will be able to use MS Excel and descriptive tools to summarize and describe basic features/characteristics of data. This project is a continuation of the sampling project.
+**Objective(s):** Students will be able to use MS Excel and descriptive tools to summarize and describe basic features/characteristics of data. 
 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-2-Descriptive-Statistics.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-2-Descriptive-Statistics.pdf) to download the project details in a PDF format. 
