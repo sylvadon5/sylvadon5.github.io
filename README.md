@@ -60,6 +60,12 @@ This data frame contains the following columns:
 - `Number of Observations:` 48 (There are 54 countries in Africa, due to missing observations, 6 countries dropped from the dataset)
   - This [`link`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_5_Statistical_Modeling_Data_set.xlsx) takes you to the data set in MS Excel format.  
 
+# Mathematical Modeling Course Projects
+
+# Calculus Course Projects
+
+- [`Click me`] () Poster Integration  
+- [`Click me`] () Washington Monument 
 
 
 
