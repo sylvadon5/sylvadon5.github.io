@@ -1,5 +1,7 @@
 # Statistical Reasoning Course Projects - Emmanuel Thompson
 
+![image](https://user-images.githubusercontent.com/61098223/222904737-d709e0ab-52ce-419a-9f70-6f4642f83a68.png)
+
 ## Sampling
 **Objective(s):** Students will be able to use MS Excel to obtain simple random samples from a large population.
 
@@ -62,7 +64,11 @@ This data frame contains the following columns:
 
 # Mathematical Modeling Course Projects - Natalya Kutsevalova
 
+<img src="https://semo.edu/colleges-departments/stem/mathematics/_images/math-2-494x740.jpg" alt="Mathematics" width="400" height="420">
+
 # Calculus Course Projects - Haohao Wang
+
+<img src="https://semo.edu/colleges-departments/stem/mathematics/_images/math-4-500x334.jpg" alt="Mathematics" width="450" height="400">
 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/PosterIntegration.pdf) Poster Integration  
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/WashingtonMonument.pdf) Washington Monument 
