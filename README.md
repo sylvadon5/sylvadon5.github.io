@@ -77,6 +77,7 @@ This data frame contains the following columns:
 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/55d1b35bc6e27935a57cea4b275f895b3bfd6a47/MA123-Project_1_Probability_Report.docx)to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/71e608baa79025f66f5e6d471888ac531160a930/MA123-Project_1_Probability_Report.pdf)to download the project details in a PDF format.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/a04f1cf70a0492828d1c2f08183281ca68c3ad39/Project_1_Probability_Dataset%20(3).xlsx)to download the Excel project template.
 
 ## Probability-Expected Value
 
@@ -107,7 +108,7 @@ This data frame contains the following columns:
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/296f3610307a11bfbfe8d54b6292452f8300f375/MA123-Project_3_Statistical_Modeling_Report.docx)to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/8d9a0ba01290d29502cf174d1f92b9f39d632aba/MA123-Project_3_Statistical_Modeling_Report.pdf)to download the project details in a PDF format. 
 
-## Finance-Paying off Creadit a Card Loan
+## Finance-Paying off Credit a Card Loan
 
 **Objective(s):**
 
