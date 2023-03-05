@@ -75,7 +75,7 @@ This data frame contains the following columns:
                   - Interpret these probabilities (percentages). 
                   - Make decisions based on these probabilities (percentages).
    
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/71e608baa79025f66f5e6d471888ac531160a930/MA123-Project_1_Probability_Report.pdf) to download the project details in a PDF format.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/71e608baa79025f66f5e6d471888ac531160a930/MA123-Project_1_Probability_Report.pdf) to download the project dashboard.
 - [`Click me`]
 
 ## Probability-Expected Value
@@ -116,7 +116,7 @@ This data frame contains the following columns:
                   - Make conclusions based on the project outcomes. 
                   
 - [`Click me`]
-- [`Click me`]
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/62649dd50042144d5bd1ffde0e16467ab7bf2177/MA123%20Credit%20Card-Personal%20Finance%20Project%20-(Nat)%20(5).numbers) to download the project details in a PDF format.
                   
 ## Geometry-Midpoint 
    
