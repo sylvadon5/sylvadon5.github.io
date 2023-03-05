@@ -75,7 +75,7 @@ This data frame contains the following columns:
                   - Interpret these probabilities (percentages). 
                   - Make decisions based on these probabilities (percentages).
    
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/71e608baa79025f66f5e6d471888ac531160a930/MA123-Project_1_Probability_Report.pdf)
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/71e608baa79025f66f5e6d471888ac531160a930/MA123-Project_1_Probability_Report.pdf) to download the project details in a PDF format.
 - [`Click me`]
 
 ## Probability-Expected Value
@@ -126,7 +126,7 @@ This data frame contains the following columns:
                   - Enter formulas in Microsoft Excel/Desmos correctly and perform computations.
                   - Create and analyze a map.
 
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/45620a3aba07b7d16637524bb29365446a481169/MA123-distance-formula-city-map-project.pdf)
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/45620a3aba07b7d16637524bb29365446a481169/MA123-distance-formula-city-map-project.pdf) to download the project details in a PDF format.
 
 # Calculus Course Projects
 
