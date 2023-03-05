@@ -116,7 +116,7 @@ This data frame contains the following columns:
                   - Make conclusions based on the project outcomes. 
                   
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/310579b505ea8c04826683737d794257030a3591/MA123-Personal%20Finance%20Project-Annuity-(Payouts)-Fall22%20(2).docx)to download the project details in a MS Word format.
-- [`Click me`]
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/e0a56b9c073d3ce1549ff456dcb9d955db5b0d2b/MA123-Personal%20Finance%20Project-Annuity-(Payouts)-Fall22%20(2).pdf)to download the project details in a PDF format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/62649dd50042144d5bd1ffde0e16467ab7bf2177/MA123%20Credit%20Card-Personal%20Finance%20Project%20-(Nat)%20(5).numbers) to download the project dashboard.
                   
 ## Geometry-Midpoint 
