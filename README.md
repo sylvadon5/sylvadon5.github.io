@@ -75,7 +75,7 @@ This data frame contains the following columns:
                   - Interpret these probabilities (percentages). 
                   - Make decisions based on these probabilities (percentages).
    
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/MA123-Project_1_Probability_Report.docx)
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/commit/50c20b9c0c9586b7b5bcccb90803b2e09e31e0b9#diff-ac5316980aa2115f2b4c4614d6ae6b05d1c2a6b9a0fe38d2df79369c596a55ff)
 - [`Click me`]
 
 ## Probability-Expected Value
