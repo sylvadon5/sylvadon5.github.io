@@ -103,7 +103,7 @@ This data frame contains the following columns:
                   - Choose appropriate model for a given data set
                   - Make prediction and compute residual
 
-- [`Click me`]
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/296f3610307a11bfbfe8d54b6292452f8300f375/MA123-Project_3_Statistical_Modeling_Report.docx)to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/8d9a0ba01290d29502cf174d1f92b9f39d632aba/MA123-Project_3_Statistical_Modeling_Report.pdf)to download the project details in a PDF format. 
 
 ## Finance-Paying off Creadit a Card Loan
