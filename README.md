@@ -130,6 +130,7 @@ This data frame contains the following columns:
                   - Using key words recognize the scenario and apply correct formula to a given geometry problem
                   - Enter formulas in Microsoft Excel/Desmos correctly and perform computations.
                   - Create and analyze a map.
+                  
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/6f0ecaac6fe87c2cd3d53bfea7db4c133a3f6cf6/MA123-distance-formula-city-map-project.docx)to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/45620a3aba07b7d16637524bb29365446a481169/MA123-distance-formula-city-map-project.pdf) to download the project details in a PDF format.
 
