@@ -66,6 +66,69 @@ This data frame contains the following columns:
 
 <img src="https://semo.edu/colleges-departments/stem/mathematics/_images/math-2-494x740.jpg" alt="Mathematics" width="400" height="420">
 
+## Probability-Bayes Theorem
+
+**Objective(s):** 
+
+                  - Create a confusion matrix (a 2 x 2 table) from raw data. 
+                  - Compute probabilities (percentages) from the confusion matrix.
+                  - Interpret these probabilities (percentages). 
+                  - Make decisions based on these probabilities (percentages).
+   
+- [`Click me`]
+- [`Click me`]
+
+## Probability-Expected Value
+
+**Objective(s):** 
+
+                  - Understand what is a deductible insurance plan.
+                  - Use Excel to compute expect values.
+                  - Evaluate and make risk decisions based on expected values.
+                  - Understand what is a deductible insurance plan. 
+                  - Use Excel to compute expect values.
+                  - Evaluate and make risk decisions based on expected values.
+                  
+- [`Click me`]
+- [`Click me`]
+
+## Statistical Modeling-Linear and Nonlinear Models
+
+**Objective(s):**
+
+                  - Compute descriptive measures
+                  - Create and describe scatter diagrams
+                  - Calculate and interpret linear correlation coefficient
+                  - Build predictive models 
+                  - Choose appropriate model for a given data set
+                  - Make prediction and compute residual
+
+- [`Click me`]
+- [`Click me`]
+
+## Finance-Paying off Creadit a Card Loan
+
+**Objective(s):**
+
+                  - Using key words recognize the scenario and apply correct formula to a given personal finance problem.
+                  - Enter formulas in Microsoft Excel/Desmos correctly and perform computations.
+                  - Create and analyze graphs  in Microsoft Excel/Desmos. 
+                  - Make conclusions based on the project outcomes. 
+                  
+- [`Click me`]
+- [`Click me`]
+                  
+## Geometry-Midpoint 
+   
+**Objective(s):**
+
+                  - Using key words recognize the scenario and apply correct formula to a given geometry problem
+                  - Enter formulas in Microsoft Excel/Desmos correctly and perform computations.
+                  - Create and analyze a map.
+
+- [`Click me`]
+- [`Click me`]
+
 # Calculus Course Projects
 
 <img src="https://semo.edu/colleges-departments/stem/mathematics/_images/math-4-500x334.jpg" alt="Mathematics" width="450" height="400">
