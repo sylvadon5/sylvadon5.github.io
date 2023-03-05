@@ -126,8 +126,7 @@ This data frame contains the following columns:
                   - Enter formulas in Microsoft Excel/Desmos correctly and perform computations.
                   - Create and analyze a map.
 
-- [`Click me`]
-- [`Click me`]
+- [`Click me`] (https://github.com/sylvadon5/sylvadon5.github.io/blob/45620a3aba07b7d16637524bb29365446a481169/MA123-distance-formula-city-map-project.pdf)
 
 # Calculus Course Projects
 
