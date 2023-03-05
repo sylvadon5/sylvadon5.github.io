@@ -89,7 +89,7 @@ This data frame contains the following columns:
                   - Use Excel to compute expect values.
                   - Evaluate and make risk decisions based on expected values.
                   
-- [`Click me`]
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/0c59b3b7a37fe0b53144e177d523c51f7fc035e9/MA123MA155-Project-Spring-23-1.docx)to download the project details in a MS Word format.
 - [`Click me`]
 
 ## Statistical Modeling-Linear and Nonlinear Models
