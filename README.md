@@ -74,9 +74,9 @@ This data frame contains the following columns:
                   - Compute probabilities (percentages) from the confusion matrix.
                   - Interpret these probabilities (percentages). 
                   - Make decisions based on these probabilities (percentages).
-   
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/71e608baa79025f66f5e6d471888ac531160a930/MA123-Project_1_Probability_Report.pdf) to download the project dashboard.
-- [`Click me`]
+
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/55d1b35bc6e27935a57cea4b275f895b3bfd6a47/MA123-Project_1_Probability_Report.docx)to download the project details in a MS Word format.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/71e608baa79025f66f5e6d471888ac531160a930/MA123-Project_1_Probability_Report.pdf)to download the project details in a PDF format.
 
 ## Probability-Expected Value
 
@@ -115,7 +115,7 @@ This data frame contains the following columns:
                   - Create and analyze graphs  in Microsoft Excel/Desmos. 
                   - Make conclusions based on the project outcomes. 
                   
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/310579b505ea8c04826683737d794257030a3591/MA123-Personal%20Finance%20Project-Annuity-(Payouts)-Fall22%20(2).docx) to download the project details in a MS Word format.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/310579b505ea8c04826683737d794257030a3591/MA123-Personal%20Finance%20Project-Annuity-(Payouts)-Fall22%20(2).docx)to download the project details in a MS Word format.
 - [`Click me`]
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/62649dd50042144d5bd1ffde0e16467ab7bf2177/MA123%20Credit%20Card-Personal%20Finance%20Project%20-(Nat)%20(5).numbers) to download the project dashboard.
                   
