@@ -104,7 +104,7 @@ This data frame contains the following columns:
                   - Make prediction and compute residual
 
 - [`Click me`]
-- [`Click me`]
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/8d9a0ba01290d29502cf174d1f92b9f39d632aba/MA123-Project_3_Statistical_Modeling_Report.pdf)to download the project details in a PDF format. 
 
 ## Finance-Paying off Creadit a Card Loan
 
