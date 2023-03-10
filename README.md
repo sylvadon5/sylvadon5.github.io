@@ -51,12 +51,11 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
 
 ## Project 5 Statistical Modeling
 **Objective(s):** Students will be able to use MS Excel to perform basic data modeling. 
- 
+
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_5_Statistical_Modeling.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_5_Statistical_Modeling.pdf) to download the project details in a PDF format. 
   
-  **Data the data set**
-
+**Data the data set**
 - `Data Source:` The World Bank
 - `Website:` www.data.worldbank.org
 - `Year:` 2019
