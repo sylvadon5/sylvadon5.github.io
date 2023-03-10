@@ -6,7 +6,7 @@
 **Objective(s):** Students will be able to use MS Excel and visualization tools to summarize and describe basic features/characteristics of data. 
 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Data-Visualization%20-%20Project.docx) to download the project details in a MS Word format.
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/MA155-Data-Visualization-Project.pdf) to download the project details in a PDF format.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Data-Visualization%20-%20Project.pdf) to download the project details in a PDF format.
 - Use the `IPUMS NHIS 2019 data set` to complete the project. 
   - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/nhis_2019.xlsx) for the data set. 
   - IPUMS website: https://nhis.ipums.org/nhis 
