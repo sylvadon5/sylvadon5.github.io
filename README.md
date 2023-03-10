@@ -48,6 +48,10 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Statistical-Inference.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Statistical-Inference.pdf) to download the project details in a PDF format. 
+- Use the `IPUMS NHIS 2019 data set` to complete the project. 
+  - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/nhis_2019.xlsx) for the data set. 
+  - IPUMS website: https://nhis.ipums.org/nhis 
+
 
 ## Project 5 Statistical Modeling
 **Objective(s):** Students will be able to use MS Excel to perform basic data modeling. 
