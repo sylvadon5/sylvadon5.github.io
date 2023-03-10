@@ -26,47 +26,15 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
 - DIABTYPE: Type of diabetes
 - HYP2TIME: Ever told had hypertension on 2+ visits 
 
- 
+## Descriptive Statistics - Numerical Measures
 
+**Objective(s):** Students will be able to use MS Excel and numerical measures to summarize and describe data. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Sampling
-**Objective(s):** Students will be able to use MS Excel to obtain simple random samples from a large population.
-
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-1-%20SRS.docx) to download the project details in a MS Word format.
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-1-%20SRS.pdf) to download the project details in a PDF format.
-- Use the `Davis data set` to complete the project.  
-
-**About Davis Data Set (Self-Reports of Height and Weight)**
-
-The Davis data frame (Self-Reports of Height and Weight) has 200 rows and 5 columns. The subjects were men and women engaged in regular exercise. There are some missing data. After removing all missing data, the data frame now has 181 rows and 5 columns. 
-
-This data frame contains the following columns:
-- `sex A` factor with levels: F, female; M, male.
-- `weight` Measured weight in kg.
-- `height` Measured height in cm.
-- `repwt` Reported weight in kg.
-- `repht` Reported height in cm. 
-  - Click this [`link`](https://rdrr.io/cran/carData/man/Davis.html) for more information about the data set. 
-  - This [`link`](https://github.com/sylvadon5/data-files/blob/main/Davis.xlsx) takes you to the data set in MS Excel format.  
-
-## Descriptive Statistics
-
-**Objective(s):** Students will be able to use MS Excel and descriptive tools to summarize and describe basic features/characteristics of data. 
-
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-2-Descriptive-Statistics.docx) to download the project details in a MS Word format.
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-2-Descriptive-Statistics.pdf) to download the project details in a PDF format. 
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Data-Visualization%20-%20Project.docx) to download the project details in a MS Word format.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Data-Visualization%20-%20Project.pdf) to download the project details in a PDF format.
+- Use the `IPUMS NHIS 2019 data set` to complete the project. 
+  - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/nhis_2019.xlsx) for the data set. 
+  - IPUMS website: https://nhis.ipums.org/nhis 
 
 ## General Probability and Discrete Distribution
 
