@@ -44,11 +44,10 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_2-Probability_Applications.pdf) to download the project details in a PDF format. 
 
 ## Inferential Statistics
-
 **Objective(s):** Students will be able to use MS Excel, random samples, and an inferential tool to draw conclusion about a population parameter.
 
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.docx) to download the project details in a MS Word format.
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3-SINF.pdf) to download the project details in a PDF format. 
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Statistical-Inference.docx) to download the project details in a MS Word format.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Statistical-Inference.pdf) to download the project details in a PDF format. 
 
 ## Statistical Modeling
 **Objective(s):** Students will be able to use MS Excel to perform basic data modeling. 
