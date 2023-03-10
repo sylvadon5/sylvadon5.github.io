@@ -2,6 +2,43 @@
 
 ![image](https://user-images.githubusercontent.com/61098223/222904737-d709e0ab-52ce-419a-9f70-6f4642f83a68.png)
 
+## Visualizing Data
+**Objective(s):** Students will be able to use MS Excel and visualization tools to summarize and describe basic features/characteristics of data. 
+
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-1-%20SRS.docx) to download the project details in a MS Word format.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project-1-%20SRS.pdf) to download the project details in a PDF format.
+- Use the `Davis data set` to complete the project. 
+- 
+About IPUMS NHIS
+NHIS is a harmonized set of data covering more than 50 years (1963-present) of the NHIS. The NHIS is the principal source of information on the health of the U.S. population, covering such topics as general health status, the distribution of acute and chronic illness, functional limitations, access to and use of medical services, insurance coverage, and health behaviors (such as exercise, diet, and tobacco and alcohol consumption). 
+
+Definition of Variables
+
+REGION: Region of residence
+AGE: Age in years 
+SEX: Sex
+POVLEV:  Ratio of family income to poverty threshold
+HEALTH: Health status
+BMICAT: Categorical body mass index
+DIABTYPE: Type of diabetes
+HYP2TIME: Ever told had hypertension on 2+ visits 
+
+Source: https://nhis.ipums.org/nhis (Accessed: 8/12/2021)
+![image](https://user-images.githubusercontent.com/61098223/224218929-23ccdf3b-922d-4dc9-b342-32a0ac56b736.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Sampling
 **Objective(s):** Students will be able to use MS Excel to obtain simple random samples from a large population.
 
