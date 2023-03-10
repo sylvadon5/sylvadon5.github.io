@@ -17,14 +17,14 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
 
 **Definition of Variables**
 
-- REGION: Region of residence
-- AGE: Age in years 
-- SEX: Sex
-- POVLEV:  Ratio of family income to poverty threshold
-- HEALTH: Health status
-- BMICAT: Categorical body mass index
-- DIABTYPE: Type of diabetes
-- HYP2TIME: Ever told had hypertension on 2+ visits 
+- `REGION:` Region of residence
+- `AGE:` Age in years 
+- `SEX:` Sex
+- `POVLEV:`  Ratio of family income to poverty threshold
+- `HEALTH:` Health status
+- `BMICAT:` Categorical body mass index
+- `DIABTYPE:` Type of diabetes
+- `HYP2TIME:` Ever told had hypertension on 2+ visits 
 
 ## Descriptive Statistics - Numerical Measures
 
