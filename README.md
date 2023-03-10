@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/61098223/222904737-d709e0ab-52ce-419a-9f70-6f4642f83a68.png)
 
-## Visualizing Data
+## Project 1 Visualizing Data
 **Objective(s):** Students will be able to use MS Excel and visualization tools to summarize and describe basic features/characteristics of data. 
 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Data-Visualization%20-%20Project.docx) to download the project details in a MS Word format.
@@ -26,7 +26,7 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
 - `DIABTYPE:` Type of diabetes
 - `HYP2TIME:` Ever told had hypertension on 2+ visits 
 
-## Descriptive Statistics - Numerical Measures
+## Project 2 Descriptive Statistics - Numerical Measures
 
 **Objective(s):** Students will be able to use MS Excel and numerical measures to summarize and describe data. 
 
@@ -36,20 +36,20 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
   - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/nhis_2019.xlsx) for the data set. 
   - IPUMS website: https://nhis.ipums.org/nhis 
 
-## General Probability and Discrete Distribution
+## Project 3 General Probability and Discrete Probability Distribution
 
 **Objective(s):** Students will be able to use MS Excel and apply general probability and discrete random variable concepts to solve basic health insurance problems.
 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_2-Probability_Applications.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_2-Probability_Applications.pdf) to download the project details in a PDF format. 
 
-## Inferential Statistics
+## Project 4 Inferential Statistics
 **Objective(s):** Students will be able to use MS Excel, random samples, and an inferential tool to draw conclusion about a population parameter.
 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Statistical-Inference.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Statistical-Inference.pdf) to download the project details in a PDF format. 
 
-## Statistical Modeling
+## Project 5 Statistical Modeling
 **Objective(s):** Students will be able to use MS Excel to perform basic data modeling. 
  
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_5_Statistical_Modeling.docx) to download the project details in a MS Word format.
