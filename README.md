@@ -9,7 +9,7 @@
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Data-Visualization%20-%20Project.pdf) to download the project details in a PDF format.
 - Use the `IPUMS NHIS 2019 data set` to complete the project. 
   - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/nhis_2019.xlsx) for the data set. 
-  - IPUMS website: https://nhis.ipums.org/nhis 
+  - IPUMS website: [https://nhis.ipums.org/nhis](https://nhis.ipums.org/nhis) 
   
   
 ### About IPUMS NHIS
