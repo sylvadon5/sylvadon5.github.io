@@ -101,7 +101,7 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
                   
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/0c59b3b7a37fe0b53144e177d523c51f7fc035e9/MA123MA155-Project-Spring-23-1.docx)to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/e6f2e19623a3c4c6e629156835e51eb50a36d7cb/MA123MA155-Project-Spring-23-1.pdf) to download the project details in a PDF format.
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/69de597fe91469c4a420d468d15b9b1ad32cdde9/MA123%20Project%202-Med%20Insurance%20Deductible%20Plans.xlsx) to download the Excel project template.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/c4dafa254b81dc697961932b25aac78c9bf2d9d2/MA123%20Project%202-Med%20Insurance%20Deductible%20Plans-SP23.xlsx) to download the Excel project template.
 
 ## Statistical Modeling-Linear and Nonlinear Models
 
