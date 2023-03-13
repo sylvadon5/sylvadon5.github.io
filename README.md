@@ -86,7 +86,7 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/55d1b35bc6e27935a57cea4b275f895b3bfd6a47/MA123-Project_1_Probability_Report.docx)to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/71e608baa79025f66f5e6d471888ac531160a930/MA123-Project_1_Probability_Report.pdf)to download the project details in a PDF format.
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/a04f1cf70a0492828d1c2f08183281ca68c3ad39/Project_1_Probability_Dataset%20(3).xlsx)to download the Excel project template.
+- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/39b7f6aa4ab2b9d44d12ae9adfd5019c87acf4c1/MA123%20Project_1_Probability_Dataset-Appl-Bayes%20Theorem%20(1).xlsx)to download the Excel project template.
 
 ## Probability-Expected Value
 
