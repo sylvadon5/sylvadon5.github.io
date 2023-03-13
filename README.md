@@ -130,7 +130,7 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
                   
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/310579b505ea8c04826683737d794257030a3591/MA123-Personal%20Finance%20Project-Annuity-(Payouts)-Fall22%20(2).docx)to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/e0a56b9c073d3ce1549ff456dcb9d955db5b0d2b/MA123-Personal%20Finance%20Project-Annuity-(Payouts)-Fall22%20(2).pdf)to download the project details in a PDF format.
-- [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/62649dd50042144d5bd1ffde0e16467ab7bf2177/MA123%20Credit%20Card-Personal%20Finance%20Project%20-(Nat)%20(5).numbers) to download the project dashboard.
+- [`Click me`](https://github.com/sylvadon5/Statistics-Projects/blob/2e8b47c42b1fe300e20afde1cec11c83a1d71788/MA123%20Credit%20Card-Personal%20Finance%20Project%20-SP23.xlsx) to download the project dashboard.
                   
 ## Geometry-Midpoint 
    
