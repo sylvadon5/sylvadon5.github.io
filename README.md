@@ -77,9 +77,8 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
 
 ## Probability-Bayes Theorem
 
-**Objective(s):** 
-
-                  - Create a confusion matrix (a 2 x 2 table) from raw data. 
+**Objective(s):** Students will be able to 
+                  - Using MS Excel create a confusion matrix (a 2 x 2 table) from raw data. 
                   - Compute probabilities (percentages) from the confusion matrix.
                   - Interpret these probabilities (percentages). 
                   - Make decisions based on these probabilities (percentages).
