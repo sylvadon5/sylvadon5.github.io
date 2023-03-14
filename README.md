@@ -94,6 +94,8 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
 
 **Objective(s):** 
 
+**Students will be able to:**
+
                   - Understand what is a deductible insurance plan.
                   - Use Excel to compute expect values.
                   - Evaluate and make risk decisions based on expected values.
@@ -108,6 +110,8 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
 ## Statistical Modeling-Linear and Nonlinear Models
 
 **Objective(s):**
+
+**Students will be able to:**
 
                   - Compute descriptive measures
                   - Create and describe scatter diagrams
@@ -125,6 +129,8 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
 
 **Objective(s):**
 
+**Students will be able to:**
+
                   - Using key words recognize the scenario and apply correct formula to a given personal finance problem.
                   - Enter formulas in Microsoft Excel/Desmos correctly and perform computations.
                   - Create and analyze graphs  in Microsoft Excel/Desmos. 
@@ -137,6 +143,8 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
 ## Geometry-Midpoint 
    
 **Objective(s):**
+
+**Students will be able to:**
 
                   - Using key words recognize the scenario and apply correct formula to a given geometry problem
                   - Enter formulas in Microsoft Excel/Desmos correctly and perform computations.
