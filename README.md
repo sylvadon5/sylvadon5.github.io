@@ -97,7 +97,7 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
 **Students will be able to:**
 
                   - Understand what is a deductible insurance plan.
-                  - Use Excel to compute expect values.
+                  - Use MS Excel to compute expect values.
                   - Evaluate and make risk decisions based on expected values.
                   - Understand what is a deductible insurance plan. 
                   - Use Excel to compute expect values.
@@ -111,7 +111,7 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
 
 **Objective(s):**
 
-**Students will be able to:**
+**Students will be able to use MS Excel to:**
 
                   - Compute descriptive measures
                   - Create and describe scatter diagrams
@@ -133,7 +133,7 @@ NHIS is a harmonized set of data covering more than 50 years (1963-present) of t
 
                   - Using key words recognize the scenario and apply correct formula to a given personal finance problem.
                   - Enter formulas in Microsoft Excel/Desmos correctly and perform computations.
-                  - Create and analyze graphs  in Microsoft Excel/Desmos. 
+                  - Create and analyze graphs in Microsoft Excel/Desmos. 
                   - Make conclusions based on the project outcomes. 
                   
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/310579b505ea8c04826683737d794257030a3591/MA123-Personal%20Finance%20Project-Annuity-(Payouts)-Fall22%20(2).docx)to download the project details in a MS Word format.
