@@ -10,6 +10,7 @@
 - Use the `IPUMS NHIS 2019 data set` to complete the project. 
   - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/nhis_2019.xlsx) for the data set. 
   - Integrated Public Use Microdata Series (IPUMS) website: [https://nhis.ipums.org/nhis](https://nhis.ipums.org/nhis) 
+- [Project 1 Deliverable](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/MA155_PROJECT_1_Soln.pdf)
   
   
 ### About IPUMS NHIS
