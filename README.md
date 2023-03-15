@@ -9,11 +9,11 @@
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Data-Visualization%20-%20Project.pdf) to download the project details in a PDF format.
 - Use the `IPUMS NHIS 2019 data set` to complete the project. 
   - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/nhis_2019.xlsx) for the data set. 
-  - IPUMS website: [https://nhis.ipums.org/nhis](https://nhis.ipums.org/nhis) 
+  - Integrated Public Use Microdata Series (IPUMS) website: [https://nhis.ipums.org/nhis](https://nhis.ipums.org/nhis) 
   
   
 ### About IPUMS NHIS
-NHIS is a harmonized set of data covering more than 50 years (1963-present) of the NHIS. The NHIS is the principal source of information on the health of the U.S. population, covering such topics as general health status, the distribution of acute and chronic illness, functional limitations, access to and use of medical services, insurance coverage, and health behaviors (such as exercise, diet, and tobacco and alcohol consumption). 
+National Health Interview Survey (NHIS) is a harmonized set of data covering more than 50 years (1963-present) of the NHIS. The NHIS is the principal source of information on the health of the U.S. population, covering such topics as general health status, the distribution of acute and chronic illness, functional limitations, access to and use of medical services, insurance coverage, and health behaviors (such as exercise, diet, and tobacco and alcohol consumption). 
 
 **Definition of Variables**
 
