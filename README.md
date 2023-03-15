@@ -36,7 +36,7 @@ National Health Interview Survey (NHIS) is a harmonized set of data covering mor
 - Use the `IPUMS NHIS 2019 data set` to complete the project. 
   - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/nhis_2019.xlsx) for the data set. 
   - IPUMS website: [https://nhis.ipums.org/nhis](https://nhis.ipums.org/nhis) 
-- [Project 2 Deliverable](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/MA155_PROJECT_2_Solnn.pdf)
+- [Project 2 Deliverable](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/MA155_PROJECT_2_solnn.pdf)
 
 ## Project 3 General Probability and Discrete Probability Distribution
 
