@@ -44,7 +44,7 @@ National Health Interview Survey (NHIS) is a harmonized set of data covering mor
 
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_2-Probability_Applications.docx) to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_2-Probability_Applications.pdf) to download the project details in a PDF format. 
-- [Project 3 Deliverable](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3_soln.docx)
+- [Project 3 Deliverable](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_3_soln.pdf)
 
 ## Project 4 Inferential Statistics
 **Objective(s):** Students will be able to use MS Excel, random samples, and an inferential tool to draw conclusion about a population parameter.
