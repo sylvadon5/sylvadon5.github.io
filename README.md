@@ -73,7 +73,7 @@ National Health Interview Survey (NHIS) is a harmonized set of data covering mor
   3.  CHEPC - Current Health Expenditure per Capita (in International Dollars at Purchasing Power Parity) 
 - `Number of Observations:` 48 (There are 54 countries in Africa, due to missing observations, 6 countries dropped from the dataset)
   - This [`link`](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Project_5_Statistical_Modeling_Data_set.xlsx) takes you to the data set in MS Excel format.  
-- [Project 5 Deliverable](tba)
+- [Project 5 Deliverable](https://github.com/sylvadon5/sylvadon5.github.io/blob/main/Answer_key_statistical_modeling.pdf)
   
 
 # Mathematical Reasoning & Modeling Course Projects
