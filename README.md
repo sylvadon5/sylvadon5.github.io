@@ -104,10 +104,7 @@ National Health Interview Survey (NHIS) is a harmonized set of data covering mor
                   - Understand what is a deductible insurance plan.
                   - Use MS Excel to compute expect values.
                   - Evaluate and make risk decisions based on expected values.
-                  - Understand what is a deductible insurance plan. 
-                  - Use Excel to compute expect values.
-                  - Evaluate and make risk decisions based on expected values.
-                  
+              
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/0c59b3b7a37fe0b53144e177d523c51f7fc035e9/MA123MA155-Project-Spring-23-1.docx)to download the project details in a MS Word format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/e6f2e19623a3c4c6e629156835e51eb50a36d7cb/MA123MA155-Project-Spring-23-1.pdf) to download the project details in a PDF format.
 - [`Click me`](https://github.com/sylvadon5/sylvadon5.github.io/blob/c4dafa254b81dc697961932b25aac78c9bf2d9d2/MA123%20Project%202-Med%20Insurance%20Deductible%20Plans-SP23.xlsx) to download the Excel project template.
